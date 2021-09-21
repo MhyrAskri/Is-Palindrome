@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bcz/CLionProjects/Deque/main.cpp
+iostream
+-
+cctype
+-
+deque
+-
+string
+-
+vector
+-
+iomanip
+-
+
